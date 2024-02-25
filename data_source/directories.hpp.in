@@ -1,0 +1,6 @@
+#pragma once
+
+namespace test_data {
+constexpr char ResorceDir[] = "@CMAKE_CURRENT_BINARY_DIR@";
+}
+
